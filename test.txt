@@ -1,0 +1,67 @@
+Painting
+Sculpture
+travel
+Beach
+Cruise
+Hotel
+Lake
+Mountain
+park
+Chemistry
+sun
+galaxy
+Biology
+Astronomy
+mathematics
+earth
+universe
+physic
+Geography
+Creditcards
+Insurance
+Investment
+Mortgage loans
+doctor
+patient
+drug
+vaccination
+x-ray
+nurse
+Flower
+snake
+valley
+waterfall
+lakeside
+fountain
+dock
+dam
+game
+shooter
+Gambling
+Online games
+poker
+Racing games
+Sport
+Soccer
+volleyball
+Tennis
+Golf
+marathons
+basketball
+swimming
+Software
+comic book
+detective
+graphic novel
+historical fiction
+literary
+non-fiction
+Person
+Dating
+Family
+Friendship
+Marriage
+Weddings
+Adult content
+Violence
+Racy
